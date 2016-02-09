@@ -11,6 +11,11 @@ using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main prupose is to 
+prodive simple example for Git training.
 
 ## Deployment
+
+This is a simple web project, deployment
+can be on any web server or even a local
+file system.
